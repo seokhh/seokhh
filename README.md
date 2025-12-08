@@ -16,8 +16,10 @@
 ---
 
 ## 📊 GitHub Stats & Languages
-[![seokhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokhh&show_icons=true&theme=tokyonight)](https://github.com/seokhh)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokhh&layout=compact&theme=tokyonight)](https://github.com/seokhh)
+[![seokhh's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=seokhh&show_icons=true&theme=tokyonight)](https://github.com/seokhh)
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=seokhh&layout=compact&theme=tokyonight)](https://github.com/seokhh)
+
 
 ---
 
@@ -26,6 +28,3 @@
 - ☁️ Spring Boot + AWS 기반 Web 서비스  
 - 📚 학습 / 실습 저장소 모음 
 
----
-
-![visitors](https://komarev.com/ghpvc/?username=seokhh)
