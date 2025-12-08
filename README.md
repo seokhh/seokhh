@@ -16,9 +16,10 @@
 ---
 
 ## 📊 GitHub Stats & Languages
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=seokhh
+[![seokhh's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=seokhh&show_icons=true)](https://github.com/seokhh)
 
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=seokhh&layout=compact
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=seokhh&layout=compact)
+
 
 
 
