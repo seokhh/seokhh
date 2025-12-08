@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 안녕하세요, seokhh입니다!
 
-<!--
-**seokhh/seokhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+- 💡 관심 분야: 백엔드 개발 (예: Spring Boot, Java), 보안
+- 🎯 목표: 실용적인 서버 개발 + 보안 지식 확장 + 오픈소스 기여  
+- 🌱 지금 배우는 것들: 스프링부트, java, Mysql
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats & Languages
+[![seokhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokhh&show_icons=true&theme=tokyonight)](https://github.com/seokhh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokhh&layout=compact&theme=tokyonight)](https://github.com/seokhh)
+
+---
+
+## 🚀 Projects & Ongoing Work
+- 🔐 Security 실습 & 분석 프로젝트  
+- ☁️ Spring Boot + AWS 기반 Web 서비스  
+- 📚 학습 / 실습 저장소 모음 
+
+---
+
+![visitors](https://komarev.com/ghpvc/?username=seokhh)
