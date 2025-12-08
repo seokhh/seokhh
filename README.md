@@ -16,9 +16,12 @@
 ---
 
 ## 📊 GitHub Stats & Languages
-![seokhh's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=seokhh&show_icons=true)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=seokhh&layout=compact)
+![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=seokhh&show_icons=true)
+
+## 🧠 Top Languages
+![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=seokhh&layout=compact)
+
 
 
 
