@@ -3,7 +3,7 @@
 ## 🧑‍💻 About Me
 - 💡 관심 분야: 백엔드 개발 (예: Spring Boot, Java), 보안
 - 🎯 목표: 실용적인 서버 개발 + 보안 지식 확장 + 오픈소스 기여  
-- 🌱 지금 배우는 것들: 스프링부트, java, Mysql
+- 🌱 지금 배우는 것들: 스프링부트, java, Mysql, Python
 
 ---
 
@@ -24,7 +24,10 @@
 
 
 
-
+--- 
+## 📜 Certifications
+- 🏅 **정보처리기사**  
+  - 취득: 2025.12 (한국산업인력공단)
 ---
 
 ## 🚀 Projects & Ongoing Work
